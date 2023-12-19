@@ -1,5 +1,5 @@
 # BookBank
-BookBank is a web application which stores the details of all the books. It follows REST architechture and is based on CRUD operation. It is developed using SpringBoot, Spring Data JPA, MySQL and Thymeleaf.
+BookBank is a web application which stores the details of all the books. It follows MVC architechture and is based to perform CRUD operation. It is developed using SpringBoot, Spring Data JPA, MySQL and Thymeleaf.
 Tools used : Intellij IDEA , WorkBench, Google Chrome (web browser).
 
 The web application contains model book which is specifically intended to provide to user where user can make a new register of the book , user can see the available books, can add up the book to mybooklist where user can see his own choice of books, user can update the details of the book such as name, author or price and can also delete it. 
